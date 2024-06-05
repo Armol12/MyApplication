@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="menu_subtitle_color">#FFFFFF</color>
+    <color name="light_blue">#ADD8E6</color>
+    <color name="dark_blue">#4682B4</color>
+    <color name="accent_color">#FFA500</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="button_color">#00008B</color> <!-- Темно-синий -->
+    <color name="button_text_color">#ADD8E6</color> <!-- Светло-синий -->
+    <color name="black">#000000</color>
+    <color name="background_gradient_start">#ADD8E6</color>
+    <color name="background_gradient_center">#87CEFA</color>
+    <color name="background_gradient_end">#4682B4</color>
+        <color name="colorPrimary">#ADD8E6</color>
+        <color name="colorPrimaryDark">#87CEEB</color>
+        <color name="colorAccent">#4682B4</color>
+        <color name="textHighlight">#00008B</color>
+    <color name="blue">#0000FF</color>
+    <color name="primaryColor">#6200EE</color>
+    <color name="primaryLightColor">#BB86FC</color>
+    <color name="primaryDarkColor">#3700B3</color>
+    <color name="secondaryColor">#03DAC5</color>
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="buttonColor">#03A9F4</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="cardBackgroundColor">#FFFFFF</color>
+    <color name="cardTextColor">#000000</color>
+    <color name="selected_puzzle_piece">#FF00FF00</color> <!-- Зеленый цвет -->
+    <color name="back_white_strok10">#FF00FF00</color> <!-- Зеленый цвет для выделения -->
+
+</resources>
